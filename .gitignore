@@ -1,0 +1,4 @@
+*.app/
+.DS_Store
+backups/
+*.zip
