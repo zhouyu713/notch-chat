@@ -2,6 +2,16 @@
 
 一个用 Swift、AppKit 和 WKWebView 编写的 macOS 刘海聊天面板。把常用 AI 网页放到屏幕顶部，随时展开聊天。
 
+## 实际界面
+
+以下为 v0.27 在 macOS 上运行的实际截图，使用未登录的 ChatGPT 首页，不含个人聊天数据。网页内容会随服务更新而变化。
+
+| 午夜蓝 | 银瓷白 |
+| --- | --- |
+| ![午夜蓝主题实际界面](notch-chat-dark.png) | ![银瓷白主题实际界面](notch-chat-light.png) |
+
+[下载 macOS DMG 发布版](https://github.com/zhouyu713/notch-chat/releases/tag/v0.27)
+
 ## 功能
 
 - 在 ChatGPT、DeepSeek、Gemini 网页之间切换。
